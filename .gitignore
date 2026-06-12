@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+ENV/
+.pixi
+
+# IDE
+.idea/
+.vscode/
+
+# Базы данных
+*.sqlite3
+*.sqlite
+db.sqlite3
+
+# Логи и отчёты
+*.log
+*.coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
